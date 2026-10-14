@@ -6,7 +6,7 @@ import streamlit as st
 # =============================
 # Use the local FastAPI backend while developing.
 # Change this to your deployed Render URL when the backend is deployed.
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://movie-recommendation-using-nlp-tf-idf.onrender.com"
 TMDB_IMG = "https://image.tmdb.org/t/p/w500"
 
 st.set_page_config(page_title="Movie Recommender", page_icon="🎬", layout="wide")
