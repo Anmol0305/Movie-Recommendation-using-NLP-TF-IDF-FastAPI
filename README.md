@@ -1,4 +1,8 @@
-# Movie Recommendation System 🎬
+## 🎬 Try the Movie Recommendation System
+
+🍿 **Explore Movie Recommendations:** [Launch Movie Recommender App](https://movie-recommendation-using-nlp-tf-idf-fastapi-jv4elshdlg3bxfz9.streamlit.app/)
+
+**Technologies:** Python, NLP, TF-IDF, FastAPI, Streamlit 🎬
 
 A movie discovery and recommendation app built with **Streamlit**, **FastAPI**, **Python**, **Pandas**, and **scikit-learn TF-IDF**. The app lets users search for movies, view movie details and discover similar titles. Movie metadata and posters are fetched through The Movie Database (TMDB) API.
 
